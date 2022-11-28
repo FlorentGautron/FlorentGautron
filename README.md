@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @FlorentGautron
 - 👀 I’m interested in web developpement
-- 🌱 I’m currently working on Symfony, Doctrine, Twig, Javascipt
+- 🌱 I’m currently working on Symfony UX, Doctrine, Twig, Javascipt
 - :rocket: I'm learning C++ and Dart
 - :office: I work for Maven's Agence in Poitiers France.
 - 📫 You can reach me at florent.gautron@gmail.com
